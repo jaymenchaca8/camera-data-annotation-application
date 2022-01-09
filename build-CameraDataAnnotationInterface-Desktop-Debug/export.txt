@@ -1,0 +1,195 @@
+image: 1 bounding box: 1 topic: Car
+ box width: 309.405
+ box height: 135.927
+ x coordinates: 1136.74
+ y coordinates: 621.128
+
+image: 2 bounding box: 1 topic: Car
+ box width: 310.405
+ box height: 136.927
+ x coordinates: 1136.24
+ y coordinates: 620.628
+
+image: 3 bounding box: 1 topic: Car
+ box width: 311.405
+ box height: 137.927
+ x coordinates: 1135.74
+ y coordinates: 620.128
+
+image: 4 bounding box: 1 topic: Car
+ box width: 312.405
+ box height: 138.927
+ x coordinates: 1135.24
+ y coordinates: 619.628
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+image: 47 bounding box: 1 topic: Car
+ box width: 1909.25
+ box height: 367.231
+ x coordinates: 91.0576
+ y coordinates: 1618.62
+
+
+
+
+
+
+
+
+
+
+
+
+image: 59 bounding box: 1 topic: Car
+ box width: 2040.55
+ box height: 415.909
+ x coordinates: 4.4989
+ y coordinates: 1624.14
+image: 59 bounding box: 2 topic: TrafficLight
+ box width: 350.797
+ box height: 116.722
+ x coordinates: 1067.3
+ y coordinates: 622.823
+
+image: 60 bounding box: 1 topic: TrafficLight
+ box width: 338.318
+ box height: 97.3765
+ x coordinates: 1069.28
+ y coordinates: 625.947
+
+image: 61 bounding box: 1 topic: Car
+ box width: 269.581
+ box height: 462.828
+ x coordinates: 792.14
+ y coordinates: 451.502
+image: 61 bounding box: 2 topic: Car
+ box width: 223.725
+ box height: 240.102
+ x coordinates: 674.227
+ y coordinates: 985.387
+image: 61 bounding box: 3 topic: TrafficLight
+ box width: 339.318
+ box height: 98.3765
+ x coordinates: 1068.78
+ y coordinates: 625.447
+
+image: 62 bounding box: 1 topic: Car
+ box width: 233.552
+ box height: 132.015
+ x coordinates: 906.778
+ y coordinates: 631.647
+image: 62 bounding box: 2 topic: Car
+ box width: 387.494
+ box height: 223.725
+ x coordinates: 438.4
+ y coordinates: 415.472
+image: 62 bounding box: 3 topic: Person
+ box width: 240.102
+ box height: 380.943
+ x coordinates: 1201.56
+ y coordinates: 713.531
+image: 62 bounding box: 4 topic: TrafficLight
+ box width: 817.381
+ box height: 528.252
+ x coordinates: 249.079
+ y coordinates: 745.418
+
+image: 63 bounding box: 1 topic: Car
+ box width: 614.861
+ box height: 594.052
+ x coordinates: 1258.43
+ y coordinates: 98.342
+image: 63 bounding box: 2 topic: TrafficLight
+ box width: 818.381
+ box height: 529.252
+ x coordinates: 248.579
+ y coordinates: 744.918
+image: 63 bounding box: 3 topic: Person
+ box width: 241.102
+ box height: 860.547
+ x coordinates: 1201.06
+ y coordinates: 713.031
+image: 63 bounding box: 4 topic: Car
+ box width: 388.494
+ box height: 224.725
+ x coordinates: 437.9
+ y coordinates: 414.972
+image: 63 bounding box: 5 topic: Car
+ box width: 234.552
+ box height: 133.015
+ x coordinates: 906.278
+ y coordinates: 631.147
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
